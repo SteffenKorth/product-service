@@ -1,0 +1,26 @@
+{
+  "name": "product-service",
+  "version": "1.0.0",
+  "description": "product-service",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteffenKorth/product-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "bugs": {
+    "url": "https://github.com/SteffenKorth/product-service/issues"
+  },
+  "homepage": "https://github.com/SteffenKorth/product-service#readme"
+}
